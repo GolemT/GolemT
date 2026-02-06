@@ -1,19 +1,18 @@
 ## About me
 
-1. CS-Student
-2. Junior Developer
-3. Web Development
+1. Software Engineer
+2. Web Development
 
 ## Technologies
 
 ### Languages
 
-- HTML
-- CSS
 - JavaScript
 - TypeScript
 - Python
 - Java
+- C#
+- Rust
 
 ### Frameworks
 
@@ -22,7 +21,7 @@
 
 ### Database
 
-- MongoDB
+- Postgres
 - MariaDB
 
 ## Personal Projects
