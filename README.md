@@ -1,6 +1,6 @@
 ## About me
 
-1. Software Engineer
+1. DevOps Engineer
 2. Web Development
 
 ## Technologies
@@ -9,26 +9,21 @@
 
 - JavaScript
 - TypeScript
-- Python
-- Java
 - C#
 - Rust
 
 ### Frameworks
 
 - NextJS
+- React-Router/Remix
 - React
-
-### Database
-
-- Postgres
-- MariaDB
+- Svelte
 
 ## Personal Projects
 - [Kochservice](https://github.com/GolemT/Kochservice)
   - A Website for Sharing Recipes
-- [FinanceTracker](https://github.com/GolemT/FinanceTracker)
-  - Tracking of income and expenses online
+- [BA-Templates](https://github.com/GolemT/BA-Template)
+  - [Typst](https://typst.app/) Templates for University Docs
 
 
 
