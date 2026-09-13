@@ -18,6 +18,8 @@
 - React-Router/Remix
 - React
 - Svelte
+- Actix
+- .NET
 
 ## Personal Projects
 - [Kochservice](https://github.com/GolemT/Kochservice)
